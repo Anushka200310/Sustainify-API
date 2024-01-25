@@ -1,0 +1,214 @@
+[
+    {
+      "name": "Eco-friendly Water Bottle",
+      "category": "Household",
+      "carbonFootprint": 50,
+      "waterUsage": 100,
+      "recyclable": true
+    },
+    {
+      "name": "Reusable Grocery Bag",
+      "category": "Shopping",
+      "carbonFootprint": 20,
+      "waterUsage": 10,
+      "recyclable": true
+    },
+    {
+      "name": "Solar-Powered Charger",
+      "category": "Electronics",
+      "carbonFootprint": 30,
+      "waterUsage": 5,
+      "recyclable": true
+    },
+    {
+      "name": "Compostable Food Container",
+      "category": "Kitchen",
+      "carbonFootprint": 40,
+      "waterUsage": 15,
+      "recyclable": false
+    },
+    {
+      "name": "Bamboo Toothbrush",
+      "category": "Personal Care",
+      "carbonFootprint": 15,
+      "waterUsage": 8,
+      "recyclable": true
+    },
+    {
+      "name": "Energy-Efficient LED Bulb",
+      "category": "Home Improvement",
+      "carbonFootprint": 25,
+      "waterUsage": 3,
+      "recyclable": true
+    },
+    {
+      "name": "Biodegradable Dish Soap",
+      "category": "Kitchen",
+      "carbonFootprint": 35,
+      "waterUsage": 12,
+      "recyclable": true
+    },
+    {
+      "name": "Plant-Based Laundry Detergent",
+      "category": "Laundry",
+      "carbonFootprint": 22,
+      "waterUsage": 18,
+      "recyclable": true
+    },
+    {
+      "name": "Recycled Paper Notebook",
+      "category": "Office Supplies",
+      "carbonFootprint": 18,
+      "waterUsage": 7,
+      "recyclable": true
+    },
+    {
+      "name": "Electric Bike",
+      "category": "Transportation",
+      "carbonFootprint": 70,
+      "waterUsage": 2,
+      "recyclable": true
+    },
+    {
+      "name": "Smart Thermostat",
+      "category": "Home Improvement",
+      "carbonFootprint": 28,
+      "waterUsage": 4,
+      "recyclable": true
+    },
+    {
+      "name": "Rainwater Harvesting System",
+      "category": "Garden",
+      "carbonFootprint": 15,
+      "waterUsage": 0,
+      "recyclable": false
+    },
+    {
+      "name": "Fair Trade Coffee",
+      "category": "Food and Beverage",
+      "carbonFootprint": 10,
+      "waterUsage": 25,
+      "recyclable": true
+    },
+    {
+      "name": "Recycled Plastic Picnic Set",
+      "category": "Outdoor",
+      "carbonFootprint": 45,
+      "waterUsage": 8,
+      "recyclable": true
+    },
+    {
+      "name": "Energy Star Rated Refrigerator",
+      "category": "Appliances",
+      "carbonFootprint": 50,
+      "waterUsage": 5,
+      "recyclable": true
+    },
+    {
+      "name": "Biodegradable Planting Pots",
+      "category": "Garden",
+      "carbonFootprint": 30,
+      "waterUsage": 10,
+      "recyclable": true
+    },
+    {
+      "name": "Upcycled Fashion Accessories",
+      "category": "Fashion",
+      "carbonFootprint": 25,
+      "waterUsage": 6,
+      "recyclable": true
+    },
+    {
+      "name": "Hybrid Car",
+      "category": "Transportation",
+      "carbonFootprint": 60,
+      "waterUsage": 3,
+      "recyclable": true
+    },
+    {
+      "name": "Cotton Tote Bag",
+      "category": "Fashion",
+      "carbonFootprint": 15,
+      "waterUsage": 7,
+      "recyclable": true
+    },
+    {
+      "name": "Wind-Powered Desk Fan",
+      "category": "Electronics",
+      "carbonFootprint": 18,
+      "waterUsage": 2,
+      "recyclable": true
+    },
+    {
+      "name": "Solar-Powered Water Heater",
+      "category": "Home Improvement",
+      "carbonFootprint": 40,
+      "waterUsage": 8,
+      "recyclable": true
+    },
+    {
+      "name": "Organic Cotton Bedding",
+      "category": "Home",
+      "carbonFootprint": 25,
+      "waterUsage": 5,
+      "recyclable": true
+    },
+    {
+      "name": "Reusable Stainless Steel Straw Set",
+      "category": "Kitchen",
+      "carbonFootprint": 12,
+      "waterUsage": 2,
+      "recyclable": true
+    },
+    {
+      "name": "Zero-Waste Toothpaste Tablets",
+      "category": "Personal Care",
+      "carbonFootprint": 15,
+      "waterUsage": 3,
+      "recyclable": true
+    },
+    {
+      "name": "Recycled PET Backpack",
+      "category": "Fashion",
+      "carbonFootprint": 30,
+      "waterUsage": 6,
+      "recyclable": true
+    },
+    {
+      "name": "Bee-friendly Wildflower Seeds",
+      "category": "Garden",
+      "carbonFootprint": 8,
+      "waterUsage": 2,
+      "recyclable": true
+    },
+    {
+      "name": "Energy-Efficient Space Heater",
+      "category": "Home Improvement",
+      "carbonFootprint": 20,
+      "waterUsage": 4,
+      "recyclable": true
+    },
+    {
+      "name": "Recycled Glass Water Bottle",
+      "category": "Household",
+      "carbonFootprint": 15,
+      "waterUsage": 5,
+      "recyclable": true
+    },
+    {
+      "name": "Plant-Based Protein Powder",
+      "category": "Food and Beverage",
+      "carbonFootprint": 18,
+      "waterUsage": 10,
+      "recyclable": true
+    },
+    {
+      "name": "Recyclable Bamboo Cutlery Set",
+      "category": "Kitchen",
+      "carbonFootprint": 10,
+      "waterUsage": 3,
+      "recyclable": true
+    }
+  ]
+  
+  
