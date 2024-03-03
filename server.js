@@ -16,7 +16,6 @@ const corsOptions = {
     credentials: true,
     allowedHeaders: ["Content-Type", "x-api-key"],
   };
-  
 
 app.use(express.json());
 
